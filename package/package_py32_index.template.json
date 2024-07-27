@@ -12,15 +12,15 @@
         {
           "name": "PY32Duino",
           "architecture": "PY32",
-          "version": "0.0.1",
+          "version": "0.1.3",
           "category": "Contributed",
           "help": {
             "online": "https://github.com/py32duino/Arduino-PY32"
           },
-          "url": "https://github.com/py32duino/Arduino-PY32/releases/download/0.0.1/Arduino-PY32-0.0.1.zip",
-          "archiveFileName": "PY32Duino-0.0.1.zip",
-          "checksum": "SHA-256:f828b94edf512c2595813a1c6a85accef9f77bb854bbdd83a3c8a2b9237dfcdd",
-          "size": "3486278",
+          "url": "https://github.com/py32duino/Arduino-PY32/releases/download/0.1.3/Arduino-PY32-0.1.3.zip",
+          "archiveFileName": "Arduino-PY32-0.1.3.zip",
+          "checksum": "SHA-256:d18af465e4b81b575f009aa08fe77ecb506d2ae21cb96c2fb29c936cc12262c4",
+          "size": "3865269",
           "boards": [
             {
               "name": "PY32F030"
